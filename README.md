@@ -18,3 +18,4 @@ $ pip install PyQt6
 ```
 
 ## If you have some questions please contact me, I will explain everything with pleasure! Have a good day
+------------------------------------------------------------------------------------------------------------
